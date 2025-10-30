@@ -137,13 +137,6 @@ This project combines **data cleaning, exploratory data analysis (EDA), machine 
 
 ---
 
-## 🧾 License
-
-This project is open-source under the **MIT License**.
-Feel free to fork, use, and modify for educational or research purposes.
-
----
-
 ## 👨‍💻 Author
 
 **Nilesh Pandit**
