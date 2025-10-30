@@ -30,13 +30,12 @@ This project combines **data cleaning, exploratory data analysis (EDA), machine 
 ```
 📁 End-to-End-Startup-Investment-Analysis-and-Prediction
 │
-├── 📘 startup_analysis.ipynb         # Main Jupyter Notebook (EDA + Modeling)
-├── 📊 powerbi_dashboard.pbix         # Interactive Power BI Dashboard
-├── 📜 startup_data.csv               # Raw dataset
-├── 🧹 cleaned_startup_data.csv        # Cleaned dataset
-├── 🤖 saved_model.pkl                # Trained ML model (Random Forest)
-├── 🧮 sql_queries.sql                # SQL insights and preprocessing queries
-├── 📈 visualizations/                # Plotly graphs & charts
+├── 📘 notebook(folder)               # Main Jupyter Notebook (EDA + Modeling)
+├── 📊 powerbi(folder)                # Interactive Power BI Dashboard
+├── 📜 dataset(folder)                # Raw dataset
+├── 🧹 dataset(folder)                # Cleaned dataset
+├── 🤖 model(folder)                  # Trained ML model (Random Forest)
+├── 🧮 sql(folder)                    # SQL insights and preprocessing queries           
 └── 📄 README.md                      # Project documentation (this file)
 ```
 
@@ -138,34 +137,6 @@ This project combines **data cleaning, exploratory data analysis (EDA), machine 
 
 ---
 
-## 🧰 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/NileshPandit2601/End-to-End-Startup-Investment-Analysis-and-Prediction.git
-   cd End-to-End-Startup-Investment-Analysis-and-Prediction
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open Jupyter Notebook:
-
-   ```bash
-   jupyter notebook startup_analysis.ipynb
-   ```
-
-4. For Power BI:
-
-   * Open `powerbi_dashboard.pbix` file
-   * Refresh data connection
-
----
-
 ## 🧾 License
 
 This project is open-source under the **MIT License**.
@@ -176,7 +147,9 @@ Feel free to fork, use, and modify for educational or research purposes.
 ## 👨‍💻 Author
 
 **Nilesh Pandit**
+
 📧 [nileshpandit986@gmail.com]
-💼 [[LinkedIn / Portfolio / GitHub Profile Link](https://www.linkedin.com/in/nilesh-pandit-40a129234/)]
+
+💼 [[LinkedIn / Portfolio](https://www.linkedin.com/in/nilesh-pandit-40a129234/)]
 
 ---
